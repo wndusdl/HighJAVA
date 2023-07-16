@@ -1,4 +1,4 @@
-package ch10JDBC;
+package ch10JDBC.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
